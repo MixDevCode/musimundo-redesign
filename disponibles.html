@@ -133,6 +133,7 @@
             window.location.href = "index.html";
         } else {
             getDisponibles().then(generarBarras);
+            userDetails().then(establecerUsuario);
         }
         const navBar = document.querySelector("nav"),
             menuBtns = document.querySelectorAll(".menu-icon"),
