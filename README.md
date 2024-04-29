@@ -10,6 +10,6 @@
 <h3>Disclaimer</h3>
 <hr>
 Este proyecto se realizó con fines educativos y fines de aprendizaje, todos los derechos reservados a sus respectivos dueños.<br><strong>NO</strong> formo parte de Grupo Carsa, Musimundo, Megatone, ni afiliados.<br><br>
-Algunas imágenes utilizadas en este proyecto son de Adobe Stock y Claro Argentina y están sujetas a derechos reservados. <br>
-Adobe y Adobe Stock son marcas registradas de Adobe Inc, Claro Argentina es una marca registrada de AMX ARGENTINA S.A. <br>
+Algunas imágenes utilizadas en este proyecto son de Adobe Stock, Claro Argentina y Musimundo y están sujetas a derechos reservados. <br>
+Adobe y Adobe Stock son marcas registradas de Adobe Inc, Claro Argentina es una marca registrada de AMX ARGENTINA S.A y Musimundo es una marca registrada de Grupo CARSA. <br>
 Todos los demás derechos de autor y marcas comerciales pertenecen a sus respectivos propietarios.<br>
